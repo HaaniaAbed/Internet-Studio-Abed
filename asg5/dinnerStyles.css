@@ -1,6 +1,6 @@
 body{
   background-color: #2d1f07;
-  opacity: .8;
+  opacity: .5;
   background-image:  repeating-linear-gradient(45deg, #b49c7f 25%, transparent 25%, transparent 75%, #b49c7f 75%, #b49c7f), repeating-linear-gradient(45deg, #b49c7f 25%, #2d1f07 25%, #2d1f07 75%, #b49c7f 75%, #b49c7f);
   background-position: 0 0, 17px 17px;
   background-size: 34px 34px;
