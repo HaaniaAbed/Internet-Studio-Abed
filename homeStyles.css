@@ -4,7 +4,13 @@ body{
   margin: 10px 20px;
 }
 
-h1, h2, h3{
+h1{
+    color: #A3A3A3;
+    font-family: "WindSong", cursive;}
+    font-size: 2em;
+}
+
+h2, h3{
   color: #A3A3A3;
   font-family: "WindSong", cursive;}
 
