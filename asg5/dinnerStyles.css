@@ -12,17 +12,13 @@ body{
 h1{
     color: #CCCCCC;
     font-size: 3em;
-    font-family: "WindSong", cursive;
-}
+  font-family: "Stalemate", cursive;}
 
 h2, h3{
     color: #A3A3A3;
     font-size: 2em;
-    font-family: "Borel", cursive;
-}
-
+  font-family: "Stalemate", cursive;
 p, li, a{
   color: #A3A3A3;
-  font-family: "Poiret One", sans-serif;	
-  font-size: 1em;
+  font-family: "Almendra SC", serif;  font-size: 1em;
 }
