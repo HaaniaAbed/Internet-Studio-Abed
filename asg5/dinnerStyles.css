@@ -13,15 +13,17 @@ body{
 h1{
     font-size: 3em;
    font-family: "Stalemate", cursive;
+   color: #445849;
 }
 
 h2, h3{
-
+  color: #445849;
   font-size: 2em;
   font-family: "Stalemate", cursive;
 }
 
 p, li{
+  color: #445849;
   font-family: "Almendra SC", serif;  font-size: 1em;
 }
 
