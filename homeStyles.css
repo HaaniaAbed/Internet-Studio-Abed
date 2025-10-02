@@ -23,8 +23,8 @@ h2, h3{
     font-family: "Borel", cursive;
 }
 
-p, ul, li, a{
+p, li, a{
   color: #A3A3A3;
   font-family: "Poiret One", sans-serif;	
-  font-size: 2em;
+  font-size: 1em;
 }
