@@ -1,1 +1,12 @@
-background-image
+body{
+  background-image= 
+}
+
+h1, h2, h3{
+	font-family: "Nixie One", system-ui;
+}
+
+p, li{
+	font-family: "Ledger", serif;
+	.small_font_14 {font-size:14px;}
+}
