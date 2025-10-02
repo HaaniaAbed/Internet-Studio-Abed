@@ -21,6 +21,10 @@ h2, h3{
   font-family: "Stalemate", cursive;
 }
 
-p, li, a{
+p, li{
   font-family: "Almendra SC", serif;  font-size: 1em;
+}
+
+a{
+  color: #445849;
 }
