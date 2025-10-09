@@ -62,7 +62,7 @@ p{
      font-size: 1em;
 }
    
-/*This overrides the custom settings for the final summary's paragraph text's size*/
+/*This overrides the custom settings for the final summary's paragraph text's size and margin (in order to make space for the floating hat)*/
 .text{
       margin-right: 120px;
       .small_font_14 {font-size:14px;}
