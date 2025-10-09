@@ -32,12 +32,13 @@ body{
   margin: 10px 20px;
 }
 
-/*This sets the custom settings for the fonts and text color for each of the heading tags */
+/*This sets the default settings for the fonts and text color for the heading tags */
 h1, h2, h3{
     font-family: "Condiment", cursive;
     color: #FFE8C3;
 }
 
+/*This sets the custom settings for text size for each of the heading tags */
 h1{font-size: 3em;}
 h2{font-size: 1em;}
 h3{.small_font_14 {font-size:20px;}
@@ -49,7 +50,8 @@ p{
      line-height: 150%;
      font-size: 1em;
 }
-
+   
+/*This overrides the custom settings for the final summary's paragraph text's size*/
 .text{
       margin-right: 90px;
       .small_font_14 {font-size:14px;}
