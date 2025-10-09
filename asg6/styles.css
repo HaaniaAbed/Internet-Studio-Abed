@@ -25,7 +25,7 @@
  Insert all your glorious CSS styles below! */
 body{
 
-  background-image: url(images/wheat.png) repeat;
+  background-repeat: url(images/wheat.png);
   background-position: 0 0, 24px 24px;
   background-size: 48px 48px;
 
