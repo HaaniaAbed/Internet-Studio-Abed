@@ -21,7 +21,6 @@
              ||_.-.   ||_.-.
             (_.--__) (_.--__)
        
-#FFED88
  Insert all your glorious CSS styles below! */
 
 /*This sets mainly the background image and the default text color for all of the contents within <body> */
@@ -42,4 +41,5 @@ h1, h2, h3, h4{
 /*This sets the default settings for the regular paragraph text's font and overrides the previous default setting for the text color */
 p{
      font-family: "Poiret One", sans-serif; 
+     color: #FFED88;
 }
