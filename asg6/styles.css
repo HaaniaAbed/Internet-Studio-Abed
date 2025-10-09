@@ -33,7 +33,7 @@ body{
 }
 
 /*This sets the custom settings for the fonts and text color for each of the heading tags */
-h1, h2, h3{
+h1, h2{
     font-family: "Condiment", cursive;
     color: #FFE8C3;
     font-size: 3em;
@@ -49,6 +49,8 @@ p{
 }
 
 h3{
+      font-family: "Condiment", cursive;
+      color: #FFE8C3;
       margin-right: 60px;
       .small_font_14 {font-size:14px;}
 }
