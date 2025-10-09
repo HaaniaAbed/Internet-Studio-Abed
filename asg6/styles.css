@@ -23,19 +23,19 @@
        
  Insert all your glorious CSS styles below! */
 
-/*This sets mainly the background image and the default text color for all of the contents within <body> */
+/*This sets mainly the background image for all of the contents within <body> */
 body{
 
   background-image: url(images/wheat.png);
 
   padding: 0 20px 20px 20px;
   margin: 10px 20px;
-  color: #FFE8C3;
 }
 
-/*This sets the default settings for the fonts for the heading tags */
-h1, h2, h3, h4{
-    font-family: "Condiment", cursive;  
+/*This sets the default settings for the fonts and text color for the heading tags */
+h1, h2, h3{
+    font-family: "Condiment", cursive;
+    color: #FFE8C3;
 }
 
 /*This sets the default settings for the regular paragraph text's font and overrides the previous default setting for the text color */
