@@ -59,7 +59,7 @@ p{
    
 /*This overrides the custom settings for the final summary's paragraph text's size*/
 .text{
-      margin-right: 100px;
+      margin-right: 120px;
       .small_font_14 {font-size:14px;}
 }
 /*This adds in the floating hat to the right side of the summary paragraph */
