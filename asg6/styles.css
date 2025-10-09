@@ -32,6 +32,12 @@ body{
   margin: 10px 20px;
 }
 
+h1{
+      font-family: "Condiment", cursive;
+      color: #FFE8C3;
+      font-size: 1em;
+}
+
 /*
 This sets the default settings for the fonts and text color for the heading tags. 
 
@@ -40,13 +46,9 @@ I couldn't find a size that I liked more than the default font-sizes for the hea
 font-size.
 */
 
-h1, h2, h3{
+h2, h3{
     font-family: "Condiment", cursive;
     color: #FFE8C3;
-}
-
-h1{
-      font-size: 1em;
 }
 
 /*This sets the custom settings for the regular paragraph text's font*/
