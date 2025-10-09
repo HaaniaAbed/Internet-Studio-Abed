@@ -50,6 +50,7 @@ p{
 
 h3{
       margin-right: 60px;
+      .small_font_14 {font-size:14px;}
 }
 /*This adds in the floating hat to the right side of the summary paragraph */
 .sum{
