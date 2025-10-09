@@ -23,16 +23,18 @@
        
  Insert all your glorious CSS styles below! */
 
-/*This sets mainly the background image for all of the contents within <body> */
+/*This sets the background image for all of the contents within <html> */
 html{
   background-image: url(images/wheat.png);
 }
 
+/*This sets the default settings for all of the contents within <body> */
 body{
   padding: 0 20px 20px 20px;
   margin: 10px 20px;
 }
 
+/*This sets the custom styles for the <h1> heading tag:font size, text color, and the font styles*/
 h1{
       font-family: "Condiment", cursive;
       color: #FFE8C3;
@@ -40,11 +42,11 @@ h1{
 }
 
 /*
-This sets the default settings for the fonts and text color for the heading tags. 
+This sets the default settings for the fonts and text color for the <h2> and <h3> tags. 
 
-Also, I did not change the font-size for these heading tags because after spending a while playing around with each individual heading tag's sizes,
-I couldn't find a size that I liked more than the default font-sizes for the heading text. However, I did set the paragraph text with a custom
-font-size.
+I did not change the font-size for these individual heading tags because after spending a while playing around with each individual heading tag's sizes,
+I couldn't find a size that I liked more than the default font-sizes for the h2 and h3 headers. However, I did set the paragraph text and h1 with a custom
+font-size because those two looked much better with custom font-sizes.
 */
 
 h2, h3{
