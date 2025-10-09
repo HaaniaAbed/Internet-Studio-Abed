@@ -40,17 +40,18 @@ h1, h2, h3{
       
 }
 
-.sum{
-      background: url(images/yellows_hats.png) no-repeat 30px 30px;
-      background-position: center left;
-      padding: 20px 80px 0 0;
-      margin: 0;
-}
-
 /*This sets the default settings for the regular paragraph text's font and overrides the previous default setting for the text color */
 p{
      font-family: "Poiret One", sans-serif; 
      color: #FFED88;
      line-height: 150%;
      font-size: 1em;
+}
+
+/*This adds in the floating hat to the right side of the summary paragraph */
+.sum{
+      background: url(images/yellows_hats.png) no-repeat 30px 30px;
+      background-position: center right;
+      padding: 20px 80px 0 0;
+      margin: 0;
 }
