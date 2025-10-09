@@ -26,8 +26,6 @@
 body{
 
   background-image: url(images/wheat.png);
-  background-position: 0 0, 24px 24px;
-  background-size: 48px 48px;
 
   padding: 0 20px 20px 20px;
   margin: 10px 20px;
