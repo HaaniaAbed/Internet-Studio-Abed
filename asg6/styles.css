@@ -24,10 +24,11 @@
  Insert all your glorious CSS styles below! */
 
 /*This sets mainly the background image for all of the contents within <body> */
-body{
-
+html{
   background-image: url(images/wheat.png);
+}
 
+body{
   padding: 0 20px 20px 20px;
   margin: 10px 20px;
 }
