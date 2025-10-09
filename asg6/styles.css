@@ -38,6 +38,12 @@ h1, h2, h3{
     color: #FFE8C3;
 }
 
+h1{
+      background: url(images/Yellow_Hat.png) no-repeat 10px 10px;
+      padding: 0 0 2px 60px;
+      margin: 0;
+}
+
 /*This sets the default settings for the regular paragraph text's font and overrides the previous default setting for the text color */
 p{
      font-family: "Poiret One", sans-serif; 
