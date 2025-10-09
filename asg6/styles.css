@@ -32,7 +32,7 @@ body{
   margin: 10px 20px;
 }
 
-/*This sets the default settings for the fonts and text color for the heading tags */
+/*This sets the custom settings for the fonts and text color for each of the heading tags */
 h1, h2, h3{
     font-family: "Condiment", cursive;
     color: #FFE8C3;
@@ -40,7 +40,7 @@ h1, h2, h3{
       
 }
 
-/*This sets the default settings for the regular paragraph text's font and overrides the previous default setting for the text color */
+/*This sets the custom settings for the regular paragraph text's font*/
 p{
      font-family: "Poiret One", sans-serif; 
      color: #FFED88;
