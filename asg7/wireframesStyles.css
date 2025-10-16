@@ -52,15 +52,24 @@ h3{
     color: #DDDDDD;
 }
 
-/*This sets the custom settings for the regular paragraph text's font and for the table's contents. It also adds in the leading for the content*/
-p, tr{
+/*This sets the custom settings for the regular paragraph text*/
+p{
      font-family: 'B612 Mono'; 
      color: #DDDDDD;
      line-height: 150%;
      font-size: 1em;
-    line-height: 1.6;
+    line-height: 1.1;
 }
 
+/*This sets the custom settings for the table content*/
+tr{
+     font-family: 'B612 Mono'; 
+     color: #DDDDDD;
+     line-height: 150%;
+     font-size: 1em;
+}
+
+/*This sets the custom settings for the figjam tag*/
 figcaption{
   font-family: 'B612 Mono'; 
      color: #DDDDDD;
