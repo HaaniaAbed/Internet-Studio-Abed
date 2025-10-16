@@ -61,3 +61,10 @@ p, tr{
     line-height: 1.6;
 }
 
+figcaption{
+  font-family: 'B612 Mono'; 
+     color: #FFF1CD;
+     line-height: 150%;
+     font-size: 1em;
+}
+
