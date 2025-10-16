@@ -28,7 +28,7 @@ body{
 /*This sets the custom styles for the <h1> heading tag:font size, text color, and the font styles*/
 h1{
       font-family: 'Alegreya SC';
-      color: #FFF1CD
+      color: #FFF1CD;
       font-size: 3em;
 }
 
