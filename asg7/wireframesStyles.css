@@ -40,7 +40,7 @@ h2{
 }
 
 /*
-This sets the default settings for the fonts and text color for the <h2> and <h3> tags. 
+This sets the default settings for the fonts and text color for the <h3> tags. 
 
 I did not change the font-size for <h3> because after spending a while playing around with all of the various size options,
 I couldn't find a size that I liked more than the default font-size for this header. However, I did set the paragraph text, h2, and h1 with a custom
@@ -52,7 +52,7 @@ h3{
     color: #FFF1CD;
 }
 
-/*This sets the custom settings for the regular paragraph text's font*/
+/*This sets the custom settings for the regular paragraph text's font and for the table's contents*/
 p, tr{
      font-family: 'B612 Mono'; 
      color: #FFF1CD;
