@@ -19,10 +19,6 @@ html{
   src: url('fonts/b612-mono-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-p, th, td{
-    font-family: 'B612 Mono';
-}
-
 /*This sets the default settings for all of the contents within <body> */
 body{
   padding: 0 20px 20px 20px;
@@ -32,14 +28,14 @@ body{
 /*This sets the custom styles for the <h1> heading tag:font size, text color, and the font styles*/
 h1{
       font-family: 'Alegreya SC';
-      color: #FFE8C3;
+      color: #FFF1CD
       font-size: 3em;
 }
 
 /*This sets the custom styles for the <h2> heading tag:font size, text color, and the font styles*/
 h2{
     font-family: 'Alegreya SC';
-    color: #FFE8C3;
+    color: #FFF1CD;
     font-size: 2em;
 }
 
@@ -53,13 +49,13 @@ font-size because those indeed looked much better with custom font-sizes.
 
 h3{
     font-family: 'Alegreya SC';
-    color: #FFE8C3;
+    color: #FFF1CD;
 }
 
 /*This sets the custom settings for the regular paragraph text's font*/
-p{
+p, td, th{
      font-family: 'B612 Mono'; 
-     color: #FFD890;
+     color: #FFF1CD;
      line-height: 150%;
      font-size: 1em;
 }
