@@ -43,6 +43,21 @@
   src: url('fonts/b612-mono-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+article{
+  width: 30%;
+  float: right;
+  margin: 10px;
+  background-color: rgb(250, 235, 199);
+  padding: 10px 20px;
+  border: 1px dotted rgb(252, 101, 18);
+  border-top: 20px solid rgb(252, 101, 18);
+
+  /*This is the orange line ontop of this side section. it can also change up the shape of the corners to be more rounded*/
+  border-radius: 10px;
+
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+}
+
 h1, h2, h3{
     font-family: 'Alegreya SC';
 }
