@@ -43,7 +43,7 @@
   src: url('fonts/b612-mono-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-article{
+aside{
   width: 30%;
   float: right;
   margin: 10px;
