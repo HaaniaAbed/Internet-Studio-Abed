@@ -19,12 +19,48 @@ html{
   src: url('fonts/b612-mono-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-h1, h2, h3{
-    font-family: 'Alegreya SC';
-}
-
 p{
     font-family: 'B612 Mono';
 }
 
+/*This sets the default settings for all of the contents within <body> */
+body{
+  padding: 0 20px 20px 20px;
+  margin: 10px 20px;
+}
+
+/*This sets the custom styles for the <h1> heading tag:font size, text color, and the font styles*/
+h1{
+      font-family: 'Alegreya SC';
+      color: #FFE8C3;
+      font-size: 3em;
+}
+
+/*This sets the custom styles for the <h2> heading tag:font size, text color, and the font styles*/
+h2{
+    font-family: 'Alegreya SC';
+    color: #FFE8C3;
+    font-size: 2em;
+}
+
+/*
+This sets the default settings for the fonts and text color for the <h2> and <h3> tags. 
+
+I did not change the font-size for <h3> because after spending a while playing around with all of the various size options,
+I couldn't find a size that I liked more than the default font-size for this header. However, I did set the paragraph text, h2, and h1 with a custom
+font-size because those indeed looked much better with custom font-sizes.
+*/
+
+h3{
+    font-family: 'Alegreya SC';
+    color: #FFE8C3;
+}
+
+/*This sets the custom settings for the regular paragraph text's font*/
+p{
+     font-family: 'B612 Mono'; 
+     color: #FFD890;
+     line-height: 150%;
+     font-size: 1em;
+}
 
