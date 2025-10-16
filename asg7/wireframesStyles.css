@@ -1,3 +1,30 @@
 html{
   background-image: url(images/wheat.png);
 }
+
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/alegreya-sc-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* b612-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'B612 Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/b612-mono-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+h1, h2, h3{
+    font-family: 'Alegreya SC';
+}
+
+p{
+    font-family: 'B612 Mono';
+}
+
+
