@@ -28,14 +28,14 @@ body{
 /*This sets the custom styles for the <h1> heading tag:font size, text color, and the font styles*/
 h1{
       font-family: 'Alegreya SC';
-      color: #FFF1CD;
+      color: #DDDDDD;
       font-size: 3em;
 }
 
 /*This sets the custom styles for the <h2> heading tag:font size, text color, and the font styles*/
 h2{
     font-family: 'Alegreya SC';
-    color: #FFF1CD;
+    color: #DDDDDD;
     font-size: 2em;
 }
 
@@ -49,13 +49,13 @@ font-size because those indeed looked much better with custom font-sizes.
 
 h3{
     font-family: 'Alegreya SC';
-    color: #FFF1CD;
+    color: #DDDDDD;
 }
 
 /*This sets the custom settings for the regular paragraph text's font and for the table's contents. It also adds in the leading for the content*/
 p, tr{
      font-family: 'B612 Mono'; 
-     color: #FFF1CD;
+     color: #DDDDDD;
      line-height: 150%;
      font-size: 1em;
     line-height: 1.6;
@@ -63,7 +63,7 @@ p, tr{
 
 figcaption{
   font-family: 'B612 Mono'; 
-     color: #FFF1CD;
+     color: #DDDDDD;
      line-height: 150%;
      font-size: 1em;
 }
