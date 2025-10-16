@@ -53,7 +53,7 @@ h3{
 }
 
 /*This sets the custom settings for the regular paragraph text's font*/
-p, td, th{
+p, tr{
      font-family: 'B612 Mono'; 
      color: #FFF1CD;
      line-height: 150%;
