@@ -48,9 +48,6 @@ article{
   float: right;
   margin: 10px;
   padding: 10px 20px;
-  border-top: 20px solid rgb(252, 101, 18);
-
-  /*This is the orange line ontop of this side section. it can also change up the shape of the corners to be more rounded*/
   border-radius: 10px;
 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
