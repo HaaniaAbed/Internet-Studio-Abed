@@ -42,7 +42,10 @@
   src: url('fonts/abhaya-libre-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-html {font-size: 16px;}
+html {
+      font-size: 16px;
+      background-image: url(images/upfeathers.png);
+}
 
 body {
   font-family: 'Abhaya Libre', sans-serif;
