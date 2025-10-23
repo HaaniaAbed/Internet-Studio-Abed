@@ -45,7 +45,7 @@
 html {font-size: 16px;}
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Abhaya Libre', sans-serif;
   font-weight: false;
   line-height: 1.65;
 }
@@ -59,14 +59,14 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Abhaya Libre', sans-serif;
   font-weight: true;
   line-height: 1.15;
 }
 
 h1,
 .text-size-h1 {
-  font-family: 'Orelega One', sans-serif;
+  font-family: 'Redressed', sans-serif;
   font-weight: 700;
   margin-top: 0;
   font-size: 3.05em;
@@ -90,4 +90,3 @@ small,
 .text-small {
   font-size: 0.64em;
 }
-
