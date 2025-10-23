@@ -24,6 +24,15 @@
 
  Insert all your glorious CSS styles below! */
 
+/* new-rocker-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'New Rocker';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/new-rocker-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 /* redressed-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -69,10 +78,10 @@ h5 {
 
 h1,
 .text-size-h1 {
-  font-family: 'Redressed', sans-serif;
+  font-family: 'New Rocker', sans-serif;
   font-weight: 700;
   margin-top: 0;
-  font-size: 3.05em;
+  font-size: 4.05em;
 }
 
 h2,
