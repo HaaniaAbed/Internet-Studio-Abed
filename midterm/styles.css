@@ -2,6 +2,6 @@ nav ul{
   list-styles: none;
   display: flex;
   justify-content: center;
-  flex-direction: row-reverse;
+  flex-direction: column;
   
 }
