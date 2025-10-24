@@ -29,6 +29,11 @@ nav ul{
   display: flex;
   justify-content: center;
   flex-direction: row;
-  flex-wrap: wrap;
   gap: 40px;
+}
+
+nav ul li{
+      background-color: dodgerblue;
+      padding: 10px;
+      border-radius: 5px;
 }
