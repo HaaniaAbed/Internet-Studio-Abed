@@ -37,3 +37,11 @@ nav ul li{
       padding: 10px;
       border-radius: 5px;
 }
+
+aside{
+  width: 30%;
+  float: center;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
