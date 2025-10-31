@@ -38,6 +38,17 @@ nav ul li{
       border-radius: 5px;
 }
 
+nav a{
+	transition: transform .3s, background-color 1s ease-in .3s;
+}
+
+nav a:hover{
+	background-color : red;
+	transform: scale(1.5);
+}
+
+/* navigation bar end*/
+
 aside{
   width: 30%;
   float: center;
