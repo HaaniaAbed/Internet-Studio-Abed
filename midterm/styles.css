@@ -43,7 +43,7 @@ nav a {
 	font-size: 1.2em;
 	color: #ffffff;
 	padding: 10px 20px;
-	background: #ff932d;
+	background: #750707;
 	border-radius: 5px;
 	border: 1px solid #c95e00;
 	box-shadow: inset 0px 1px 0px rgba(255,255,255,0.7);
@@ -58,7 +58,7 @@ nav a{
 
 /* a:hover means whatever your mouse is hovering over*/
 nav a:hover{
-	background-color : red;
+	background-color : #cc9a02;
 	transform: scale(1.5);
 }
 
