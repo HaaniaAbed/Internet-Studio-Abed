@@ -105,16 +105,14 @@ aside{
 }
 
 
-html {
-      font-size: 16px;
-      /*background-image: url(images/upfeathers.png);*/
+html {font-size: 16px;
+	 /*background-image: url(images/upfeathers.png);*/
 }
 
 body {
-  font-family: 'Markazi Text', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: false;
   line-height: 1.65;
-  color: #857F73;
 }
 
 p {
@@ -127,7 +125,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Almendra', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: true;
   line-height: 1.15;
   /*background-image: url(images/wov.png);*/
@@ -138,10 +136,8 @@ h1,
   font-family: 'My Soul', sans-serif;
   font-weight: 700;
   margin-top: 0;
-  font-size: 4.05em;
-  text-align:center;
+  font-size: 3.05em;
   /*color: #6E695E;*/
-      
 }
 
 h2,
@@ -157,3 +153,8 @@ h5,
 .text-size-h5 { font-size: 1.25em; }
 
 .text-caption { font-size: 0.8em; }
+
+small,
+.text-small {
+  font-size: 0.64em;
+}
