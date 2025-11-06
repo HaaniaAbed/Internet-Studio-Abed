@@ -21,6 +21,48 @@
 			<li><a href="contact.html">Contact Me</a></li>
 		</ul>
 	</nav>
+
+	<form action="submission.html" method="POST">
+            	<h1>Contact Us!</h1>
+    	<section class="name">
+      	<label for="name">Name:</label>
+            	<input type="text" name="name" id="name">
+    	</section>
+    	<hr>
+
+		<section class="phone">
+      	<label for="phone">Phone:</label>
+            	<input type="text" phone="phone" id="phone">
+    	</section>
+    	<hr>
+
+		<section class="email">
+      	<label for="email">Email:</label>
+            	<input type="text" email="email" id="email">
+    	</section>
+    	<hr>
+   	 
+    	<section class="guests">
+      	<span>Will You be Bringing a Guest?</span>
+      	<br>
+      	<input type="radio" name="guest" id="yes" value="yes">
+      	<label for="yes">Yes</label>
+      	<input type="radio" name="guest" id="no" value="yes">
+      	<label for="no">No</label>
+    	</section>
+    	<hr>
+  	 
+    	<section class="extra-info">
+      	<label for="extra">Comments/Questions?</label>
+      	<br>
+      	<textarea id="extra" name="extra" rows="3" cols="40"></textarea>
+    	</section>
+    	<hr>
+
+    	<section class="submission">
+      	<input type="submit" value="Submit">
+    	</section>
+  	</form>
 	
 </body>
 </html>
