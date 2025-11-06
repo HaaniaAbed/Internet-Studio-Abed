@@ -41,7 +41,7 @@ nav a {
 	display: inline-block;
 	text-decoration: none;
 	font-size: 1.2em;
-	color: #ffffff;
+	color: #FFD700;
 	padding: 10px 20px;
 	background: #750707;
 	border-radius: 5px;
@@ -60,7 +60,7 @@ nav a{
 /* a:hover means whatever your mouse is hovering over*/
 nav a:hover{
 	background-color : #FFD700;
-	color: #000000;
+	color: #750707;
 	transform: scale(1.5);
 }
 
