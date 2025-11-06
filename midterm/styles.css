@@ -51,6 +51,32 @@
   src: url('fonts/almendra-v28-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/*Mostly Font Related Styles (plus the background image)*/
+
+html {
+	
+	 font-size: 16px;
+	 /*background-image: url(images/upfeathers.png);*/
+}
+
+	h1{
+	font-family: 'My Soul';
+}
+	h2, h3{
+    font-family: 'Markazi Text';
+}
+
+p{
+    font-family: 'Almendra';
+}
+
+
+
+
+
+
+
+/* Code for specific sections*/
 nav ul{
   list-styles: none;
   display: flex;
@@ -100,24 +126,3 @@ aside{
   padding: 10px 20px;
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
-
-
-
-/*Mostly Font Related Styles (plus the background image)*/
-
-html {
-	
-	 font-size: 16px;
-	 /*background-image: url(images/upfeathers.png);*/
-}
-
-	h1{
-	font-family: 'My Soul';
-}
-	h2, h3{
-    font-family: 'Markazi Text';
-}
-
-p{
-    font-family: 'Almendra';
-}
