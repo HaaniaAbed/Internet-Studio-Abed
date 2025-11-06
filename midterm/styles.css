@@ -126,3 +126,26 @@ aside{
   padding: 10px 20px;
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+
+
+@keyframes hero {
+	
+	from{
+		transform: rotate(0) scale(.5);
+		left: 120%;
+	}
+
+	50{
+		transform: rotate(-720deg) scale(.5);
+		left: 0;
+	}
+
+	to{
+		transform: rotate(0) scale(1);	}
+
+}
+	.logo, h1{
+		animation: logo 3s;
+	}
+
+}
