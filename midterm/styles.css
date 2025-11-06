@@ -144,8 +144,5 @@ aside{
 		transform: rotate(0) scale(1);	}
 
 }
-	.logo, h1{
-		animation: logo 3s;
-	}
 
 }
