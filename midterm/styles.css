@@ -48,8 +48,8 @@ nav a {
 	border: 1px solid #c95e00;
 	box-shadow: inset 0px 1px 0px rgba(255,255,255,0.7);
 	text-shadow:
-		0px -1px 1px rgba(000,000,000,0.2),
-		0px 1px 0px rgba(255,255,255,0.3);
+		0px -1px 1.5px rgba(000,000,000,0.2),
+		0px 1.5px 0px rgba(255,255,255,0.3);
 }
 
 nav a{
