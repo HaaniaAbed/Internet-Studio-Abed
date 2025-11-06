@@ -60,7 +60,7 @@ nav a{
 /* a:hover means whatever your mouse is hovering over*/
 nav a:hover{
 	background-color : #FFD700;
-	color:#000000;
+	color: #000000;
 	transform: scale(1.5);
 }
 
