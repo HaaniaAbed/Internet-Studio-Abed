@@ -23,6 +23,8 @@
       
 
  Insert all your glorious CSS styles below! */
+
+/*This goes ontop to ensure the text doesn't mess with the flex direction*/
 nav ul{
   list-styles: none;
   display: flex;
