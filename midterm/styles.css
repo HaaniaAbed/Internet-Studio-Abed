@@ -74,6 +74,59 @@ aside{
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
 
-body{
-	color: #FFD700;
+
+
+/*Mostly Font Related Styles (plus the background image)*/
+
+html {
+      font-size: 16px;
+      background-image: url(images/upfeathers.png);
 }
+
+body {
+  font-family: 'Abhaya Libre', sans-serif;
+  font-weight: false;
+  line-height: 1.65;
+  color: #857F73;
+}
+
+p {
+  font-size: 1em;
+  color: #6E695E;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Redressed', sans-serif;
+  font-weight: true;
+  line-height: 1.15;
+  background-image: url(images/wov.png);
+}
+
+h1,
+.text-size-h1 {
+  font-family: 'New Rocker', sans-serif;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 4.05em;
+  text-align:center;
+  color: #6E695E;
+      
+}
+
+h2,
+.text-size-h2 { font-size: 2.44em; }
+
+h3,
+.text-size-h3 { font-size: 1.95em; }
+
+h4,
+.text-size-h4 { font-size: 1.56em; }
+
+h5,
+.text-size-h5 { font-size: 1.25em; }
+
+.text-caption { font-size: 0.8em; }
