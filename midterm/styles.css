@@ -54,11 +54,13 @@ nav a {
 
 nav a{
 	transition: transform .3s, background-color .7s ease-in .3s;
+	transition: transform .3s, color .7s ease-in .3s;
 }
 
 /* a:hover means whatever your mouse is hovering over*/
 nav a:hover{
 	background-color : #FFD700;
+	color:#000000;
 	transform: scale(1.5);
 }
 
