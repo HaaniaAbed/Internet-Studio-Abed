@@ -165,7 +165,7 @@ aside{
   padding: 10px 20px;
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
-
+}
 
 @keyframes hero {
 	
@@ -184,4 +184,9 @@ aside{
 
 }
 
-}
+	.logo{
+		animation: logo 3s;
+	}
+
+
+
