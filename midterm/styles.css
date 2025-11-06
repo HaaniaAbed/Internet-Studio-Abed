@@ -86,6 +86,15 @@ aside{
   src: url('fonts/my-soul-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* markazi-text-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/markazi-text-v28-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 
 html {
       font-size: 16px;
@@ -109,7 +118,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Redressed', sans-serif;
+  font-family: 'Markazi Text', sans-serif;
   font-weight: true;
   line-height: 1.15;
   /*background-image: url(images/wov.png);*/
@@ -117,7 +126,7 @@ h5 {
 
 h1,
 .text-size-h1 {
-  font-family: 'New Rocker', sans-serif;
+  font-family: 'My Soul', sans-serif;
   font-weight: 700;
   margin-top: 0;
   font-size: 4.05em;
