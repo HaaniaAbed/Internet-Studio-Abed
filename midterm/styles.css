@@ -39,7 +39,7 @@ nav ul{
   justify-content: center;
   flex-direction: row;
   gap: 40px;
-  font-size: 14px;
+ .small_font_14 {font-size:14px;}
 }
 
 aside{
