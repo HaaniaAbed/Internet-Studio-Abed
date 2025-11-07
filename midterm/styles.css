@@ -87,7 +87,7 @@ h5 {
   font-family: 'Almendra', serif;
   font-weight: true;
   line-height: 1.15;
-  /*background-image: url(images/wov.png);*/
+  /*background-image: url(fancy-cushion-1.webp);*/
 }
 
 h1,
@@ -165,6 +165,7 @@ aside{
   padding: 10px 20px;
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+  background-image: url(fancy-cushion-1.webp);
 }
 
 @keyframes hero {
