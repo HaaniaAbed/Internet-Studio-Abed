@@ -33,6 +33,16 @@ nav ul{
   gap: 40px;
 }
 
+aside{
+  width: 30%;
+  float: center;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+  background-image: url(fancy-cushion-1.webp);
+}
+
 /* my-soul-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -157,16 +167,6 @@ nav a:hover{
 }
 
 /* navigation bar end*/
-
-aside{
-  width: 30%;
-  float: center;
-  margin: 10px;
-  padding: 10px 20px;
-  border-radius: 10px;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
-  background-image: url(fancy-cushion-1.webp);
-}
 
 @keyframes hero {
 	
