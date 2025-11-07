@@ -33,7 +33,7 @@ nav ul{
   gap: 40px;
 }
 
-cta{
+.cta{
 	width: 30%;
   float: center;
   margin: 10px;
