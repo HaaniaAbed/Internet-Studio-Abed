@@ -63,7 +63,7 @@ nav ul{
 /*Mostly Font Related Styles (plus the background image)*/
 
 html {
-	
+	 color:#FFD700;
 	 font-size: 16px;
 	 background-image: url(midterm_Images/dark-grey-terrazzo.webp);
 }
