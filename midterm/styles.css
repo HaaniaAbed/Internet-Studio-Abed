@@ -178,7 +178,7 @@ nav a:hover{
 
 /* navigation bar end*/
 
-@keyframes hero {
+/*@keyframes hero {
 	
 	from{
 		transform: rotate(0) scale(.5);
@@ -193,7 +193,7 @@ nav a:hover{
 	to{
 		transform: rotate(0) scale(1);	}
 
-}
+}*/
 
 	.hero{
 		animation: logo 3s;
