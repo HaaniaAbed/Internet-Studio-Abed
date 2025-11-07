@@ -33,6 +33,15 @@ nav ul{
   gap: 40px;
 }
 
+.cta nav ul{
+  list-styles: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 40px;
+  font-size: 14px;
+}
+
 aside{
   width: 30%;
   float: center;
