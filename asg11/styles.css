@@ -24,13 +24,13 @@
 
  Insert all your glorious CSS styles below! */
 
-/* moirai-one-regular - latin */
+/* rubik-vinyl-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Moirai One';
+  font-family: 'Rubik Vinyl';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/moirai-one-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/rubik-vinyl-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* markazi-text-regular - latin */
