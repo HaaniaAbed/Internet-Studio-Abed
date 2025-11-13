@@ -101,7 +101,7 @@ small,
 }
 
 
-/* Flexbox */
+/* Main Flexbox Code */
 
 .nav, .boxes, .footer, .footer form{
 	display: flex;
