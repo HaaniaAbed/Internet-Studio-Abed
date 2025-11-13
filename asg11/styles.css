@@ -67,7 +67,7 @@ h5 {
   font-family: 'Moirai One', sans-serif;
   font-weight: true;
   line-height: 1.15;
-  background-image: url(images/wov.png);
+  /*background-image: url(images/wov.png);*/
 }
 
 h1,
@@ -103,7 +103,7 @@ small,
 
 /* Main Flexbox Code */
 
-.nav, .boxes, .footer, .footer form{
+.nav, .boxes form{
 	display: flex;
 	flex-flow: row wrap;
 
