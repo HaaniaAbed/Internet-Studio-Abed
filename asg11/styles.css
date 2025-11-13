@@ -103,7 +103,7 @@ small,
 
 /* Main Flexbox Code */
 
-.nav, .boxes, .footer, .footer form{
+.nav, .boxes{
 	display: flex;
 	flex-flow: row wrap;
 
