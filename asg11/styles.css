@@ -24,40 +24,31 @@
 
  Insert all your glorious CSS styles below! */
 
-/* new-rocker-regular - latin */
+/* moirai-one-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'New Rocker';
+  font-family: 'Moirai One';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/new-rocker-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/moirai-one-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-/* redressed-regular - latin */
+/* markazi-text-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Redressed';
+  font-family: 'Markazi Text';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/redressed-v32-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-
-/* abhaya-libre-regular - latin */
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Abhaya Libre';
-  font-style: normal;
-  font-weight: 400;
-  src: url('fonts/abhaya-libre-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/markazi-text-v28-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 html {
       font-size: 16px;
-      background-image: url(images/upfeathers.png);
+      /*background-image: url(images/upfeathers.png);*/
 }
 
 body {
-  font-family: 'Abhaya Libre', sans-serif;
+  font-family: 'Markazi Text', sans-serif;
   font-weight: false;
   line-height: 1.65;
   color: #857F73;
@@ -73,7 +64,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Redressed', sans-serif;
+  font-family: 'Moirai One', sans-serif;
   font-weight: true;
   line-height: 1.15;
   background-image: url(images/wov.png);
@@ -81,7 +72,7 @@ h5 {
 
 h1,
 .text-size-h1 {
-  font-family: 'New Rocker', sans-serif;
+  font-family: 'Moirai One', sans-serif;
   font-weight: 700;
   margin-top: 0;
   font-size: 4.05em;
