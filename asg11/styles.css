@@ -133,7 +133,7 @@ small,
 }
 
 /*Overriding the text color for the flexbox paragraph text*/
-.boxes div p{
+.nav p{
 	color: #c0c0c0;
 }
 
