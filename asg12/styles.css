@@ -21,10 +21,10 @@ body {
 
 /* CSS Grid Items */
 .box {
-  background-color: dodgerblue;
+  background-color: red;
   color: black;
   border-radius: 5px;
-  border: 4px royalblue solid;
+  border: 4px red solid;
 }
 
 
