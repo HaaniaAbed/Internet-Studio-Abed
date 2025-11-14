@@ -56,6 +56,11 @@ body {
   color: #6E695E;
 }
 
+/*Overriding the text color for the flexbox paragraph text*/
+.nav p{
+	color: #c0c0c0;
+}
+
 p {
   font-size: 1em;
   color: #6E695E;
@@ -130,11 +135,6 @@ small,
 	display: flex;
 	flex-flow: column;
 
-}
-
-/*Overriding the text color for the flexbox paragraph text*/
-.nav p{
-	color: #c0c0c0;
 }
 
 .boxes .more{
