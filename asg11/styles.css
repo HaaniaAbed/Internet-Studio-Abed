@@ -56,14 +56,9 @@ body {
   color: #6E695E;
 }
 
-/*Overriding the text color for the flexbox paragraph text*/
-.nav p{
-	color: #c55555;
-}
-
 p {
   font-size: 1em;
-  color: #6E695E;
+  color: #C0C0C0;
 }
 
 h1,
