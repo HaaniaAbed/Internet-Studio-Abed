@@ -22,8 +22,8 @@ body {
 .box {
   background-color: #808080;
   color: black;
-  border-radius: 5px;
-  border: 4px #808080 solid;
+  /*border-radius: 5px;
+  border: 4px #808080 solid;*/
 }
 
 
