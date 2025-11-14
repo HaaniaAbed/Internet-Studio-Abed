@@ -6,9 +6,9 @@ body {
 /* CSS Grid Container */
 .gridContainer {
   display: grid;
-  width: 900px;
+  /*width: 900px;*/
   height: 1200px;
-  grid-template: repeat(3, 1fr) / repeat(4,1fr);
+  grid-template: repeat(3, 300px) / repeat(4,1fr);
   gap: 20px;
 
 }
