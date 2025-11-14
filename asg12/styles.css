@@ -15,8 +15,6 @@ body {
  gap: 5px;
  /*grid-template-columns: 100px 50% 200px;
  grid-template-rows: 10% 20% 600px;*/
- grid-area: 4 / 4 / span 3 / span3;
-
 ]
   
 }
