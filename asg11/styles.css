@@ -124,7 +124,9 @@ small,
 	margin: 10px;
 	border-radius: 5px;
 	padding: 10px 10px 0 10px;
-	background-color: rgba(0,0,0,.1);
+	color: #c0c0c0;
+    background-image: url(images/dark_embroidery.png);
+	/*background-color: rgba(0,0,0,.1);*/
 	display: flex;
 	flex-flow: column;
 
