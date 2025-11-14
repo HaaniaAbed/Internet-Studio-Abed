@@ -132,6 +132,11 @@ small,
 
 }
 
+/*Overriding the text color for the flexbox paragraph text*/
+.boxes div p{
+	color: #c0c0c0;
+}
+
 .boxes .more{
 	margin-top: auto;
 
