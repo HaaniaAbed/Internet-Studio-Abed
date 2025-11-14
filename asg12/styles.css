@@ -6,8 +6,8 @@ body {
 /* CSS Grid Container */
 .gridContainer {
   display: grid;
-  /*border: 4px gray solid;*/
-  border-radius: 5px;
+  /*border: 4px gray solid;
+  border-radius: 5px;*/
   width: 300px;
  height: 1000px;
  grid-template: repeat(3, 1fr) / repeat(4,100px);
