@@ -6,24 +6,17 @@ body {
 /* CSS Grid Container */
 .gridContainer {
   display: grid;
-  /*border: 4px gray solid;
-  border-radius: 5px;*/
   width: 300px;
- height: 1000px;
- grid-template: repeat(3, 1fr) / repeat(4,100px);
- gap: 20px;
-/* grid-template-columns: 100px 50% 200px;
- grid-template-rows: 10% 20% 600px;*/
-]
-  
+  height: 500px;
+  grid-template: repeat(3, 1fr) / repeat(4,100px);
+  gap: 20px;
+
 }
 
 /* CSS Grid Items */
 .box {
   background-color: #808080;
   color: black;
-  /*border-radius: 5px;
-  border: 4px #808080 solid;*/
 }
 
 
