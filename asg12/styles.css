@@ -3,23 +3,6 @@ body {
   border: 0;
 }
 
-h1 {
-  font-size: 3.815rem;
-}
-
-h2 {
-  font-size: 3.052rem;
-}
-
-p {
-  font-size: 1rem;
-}
-
-h1,
-h2 {
-  text-align: center;
-}
-
 /* CSS Grid Container */
 .gridContainer {
   display: grid;
@@ -32,7 +15,7 @@ h2 {
  gap: 5px;
  /*grid-template-columns: 100px 50% 200px;
  grid-template-rows: 10% 20% 600px;*/
- drid-area: 4 / 4 / span 3 / span3;
+ grid-area: 4 / 4 / span 3 / span3;
 
 ]
   
