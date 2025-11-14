@@ -12,8 +12,8 @@ body {
  height: 1000px;
  grid-template: repeat(3, 1fr) / repeat(3,100px);
  gap: 5px;
- grid-template-columns: 100px 50% 200px;
- grid-template-rows: 10% 20% 600px;
+/* grid-template-columns: 100px 50% 200px;
+ grid-template-rows: 10% 20% 600px;*/
 ]
   
 }
