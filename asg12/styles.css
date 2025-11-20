@@ -7,6 +7,15 @@
   src: url('fonts/astloch-v27-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* scheherazade-new-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Scheherazade New';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/scheherazade-new-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 /* Font and Text Styles*/
 
 html {
@@ -15,7 +24,7 @@ html {
 }
 
 body {
-  font-family: 'Markazi Text', sans-serif;
+  font-family: 'Scheherazade New', sans-serif;
   font-weight: false;
   line-height: 1.65;
   color: #6E695E;
@@ -31,7 +40,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Rubik Vinyl', sans-serif;
+  font-family: 'Scheherazade New', sans-serif;
   font-weight: true;
   line-height: 1.15;
 }
