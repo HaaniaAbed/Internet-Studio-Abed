@@ -62,7 +62,7 @@ body {
 
 p {
   font-size: 1.2em;
-  color: #C0C0C0;
+  color: #00674F;
 }
 
 h1,
@@ -126,7 +126,7 @@ body {
 /* CSS Grid Items */
 .box {
   background-image: url(images/cork-board.png);
-  color: black;
+  color: #00674F;
 }
 
 
