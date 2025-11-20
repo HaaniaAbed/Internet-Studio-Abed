@@ -125,7 +125,7 @@ body {
 
 /* CSS Grid Items */
 .box {
-  background-color: #808080;
+  background-image: url(images/dcork-board.png);
   color: black;
 }
 
