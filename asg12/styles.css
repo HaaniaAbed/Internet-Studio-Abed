@@ -1,3 +1,12 @@
+/* astloch-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Astloch';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/astloch-v27-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 /* Font and Text Styles*/
 
 html {
@@ -29,18 +38,19 @@ h5 {
 
 h1,
 .text-size-h1 {
-  font-family: 'Rubik Vinyl', sans-serif;
+  font-family: 'Astloch', sans-serif;
   font-weight: 700;
   margin-top: 0;
   font-size: 4.05em;
   text-align:center;
   color: #c0c0c0;
-  /*background-image: url(images/dark_embroidery.png);*/
-      
+  /*background-image: url(images/dark_embroidery.png);*/  
 }
 
-h2,
-.text-size-h2 { font-size: 2.44em; }
+h2{
+      font-family: 'Astloch', sans-serif;
+      .text-size-h2 { font-size: 2.44em; }
+}
 
 h3,
 .text-size-h3 { font-size: 1.95em; }
