@@ -46,7 +46,11 @@
 
 html {
       font-size: 16px;
-      /*background-image: url(images/circles-and-roundabouts.png);*/
+      background-color: #00674F;
+      opacity: 1;
+      background-image:  linear-gradient(30deg, #00a37d 12%, transparent 12.5%, transparent 87%, #00a37d 87.5%, #00a37d), linear-gradient(150deg, #00a37d 12%, transparent 12.5%, transparent 87%, #00a37d 87.5%, #00a37d), linear-gradient(30deg, #00a37d 12%, transparent 12.5%, transparent 87%, #00a37d 87.5%, #00a37d), linear-gradient(150deg, #00a37d 12%, transparent 12.5%, transparent 87%, #00a37d 87.5%, #00a37d), linear-gradient(60deg, #00a37d77 25%, transparent 25.5%, transparent 75%, #00a37d77 75%, #00a37d77), linear-gradient(60deg, #00a37d77 25%, transparent 25.5%, transparent 75%, #00a37d77 75%, #00a37d77);
+      background-size: 80px 140px;
+      background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
 }
 
 body {
