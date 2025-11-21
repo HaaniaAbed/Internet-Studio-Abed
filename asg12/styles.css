@@ -138,6 +138,10 @@ background-repeat: repeat;
       color: #00674F;
 }
 
+.box h1, h2, p{
+     margin: 10px;
+}
+
 .box p{
         margin: 10px;
         background-color: #c9a27c;
