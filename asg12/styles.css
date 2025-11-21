@@ -63,7 +63,6 @@ body {
 p {
   font-size: 1.2em;
   color: #00674F;
-  background-color: #c9a27c;
 }
 
 h1,
@@ -137,6 +136,10 @@ background-size: 40px 40px;
 background-repeat: repeat;
       
       color: #00674F;
+}
+
+.box p{
+        background-color: #c9a27c;
 }
 
 /* Paragraph Text color override */
