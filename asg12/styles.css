@@ -157,6 +157,7 @@ background-repeat: repeat;
 /* Green Banner over top portion of page for better text visibility*/
 .topp{
        background-color: #00674F;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
  
 }
 
