@@ -139,6 +139,7 @@ background-repeat: repeat;
 }
 
 .box p{
+        margin: 10px;
         background-color: #c9a27c;
 }
 
