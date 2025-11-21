@@ -138,8 +138,15 @@ background-repeat: repeat;
       color: #00674F;
 }
 
+/* Paragraph Text color override */
 .top{
       color:#D6B588;
+}
+
+/* Green Banner over top portion*/
+.topp{
+       background-color: #00674F;
+ 
 }
 
 
