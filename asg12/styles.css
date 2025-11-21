@@ -138,6 +138,7 @@ background-repeat: repeat;
       color: #00674F;
 }
 
+/* Grid Box Text Margin*/
 .box h2, h3, p{
      margin: 10px;
 }
